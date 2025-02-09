@@ -124,8 +124,8 @@ Collaborated with a team to develop a Kotlin Multiplatform fitness application f
     image: "/portfolio.png",
     tags: ["React.js", "Material UI", "CSS", "JavaScript", "HTML"],
     category: "web apps",
-    github: "https://github.com/mwnseo/portfolio-new",
-    webapp: "https://mwnseo.github.io/portfolio-new/",
+    github: "https://github.com/mwnseo/2025FebPortfolio",
+    webapp: "https://whoisminseo.netlify.app/",
   },
   {
     id: 2,
