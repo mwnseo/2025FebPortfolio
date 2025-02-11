@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 const Document = styled.img`
-  display: none;
+  display: none; 
   height: 70px;
   width: fit-content;
   background-color: transparent;

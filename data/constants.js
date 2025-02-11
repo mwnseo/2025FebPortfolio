@@ -3,7 +3,7 @@ export const Bio = {
   description: "I",
   github: "#",
   resume:
-    "https://docs.google.com/document/d/1yGbBv84DQYUZ9n_CxtyGracnEDzkxss_0dvIH7PjlXk/edit?usp=sharing",
+    "https://docs.google.com/document/d/1ow1t5IpZTe6MShJoTX8wi-ub8bJ5GMQZcdMIdIZQzC0/edit?usp=sharing",
   linkedin: "https://www.linkedin.com/in/minseo-lee-64181b256/",
   twitter: "#",
   insta: "#",
